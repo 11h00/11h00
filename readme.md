@@ -30,6 +30,6 @@ i started to code **2 year ago**. exactly the 24 august 2019 when i needed to ma
 the only responce to write here is coding my fav thing to do. its literally the only domain i can exploit all my potential, since im gifted for never give up (on code ofc), i started to explore more further programming code, and started to learn about hacking.
 
 regarde moi le
-![xd]([regarde le](https://mathias777.com/asset/img/xd1.jpg))
+!(https://mathias777.com/asset/img/xd1.jpg)[]
 
 # THANKS FOR READING !
